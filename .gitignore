@@ -163,3 +163,5 @@ cython_debug/
 
 # Compressed image files
 *.gbpg
+# Decompressed image files
+*.jpeg
